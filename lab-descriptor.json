@@ -78,7 +78,7 @@
       "name": "Precision agriculture using Multispectral UAV",
       "short-name": "multispectral-uav",
       "repo": "https://github.com/virtual-labs/exp-multispectral-uav-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
  ],
